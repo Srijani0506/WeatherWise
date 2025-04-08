@@ -1,17 +1,11 @@
-HEAD
+WeatherWise – Your Go-To Weather Companion! ☀️🌍
+WeatherWise is a simple, easy-to-use weather app that helps you stay updated on the latest weather conditions for any city worldwide. Using real-time data from the OpenWeatherMap API, the app delivers accurate weather forecasts in a clean and user-friendly interface.
 
-# WeatherWise
+What Makes WeatherWise Special?
+🌎 Search Any City – Quickly find weather updates for any location.
+🌡️ Live Weather Data – Get real-time temperature, humidity, wind speed, and more.
+☁️ Weather Icons – See visual representations of the current weather conditions.
+📊 Detailed Highlights – Includes "Feels Like" temperature, humidity levels, and wind speed.
+📱 Fully Responsive – Works seamlessly on both mobile and desktop.
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-2d04852 (Initial project commit)
+Whether you're planning your day or just curious about the weather, WeatherWise has got you covered! 🌦️🚀
